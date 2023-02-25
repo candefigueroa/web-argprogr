@@ -1,0 +1,46 @@
+        img{
+            margin-top: 40px ;
+            margin-bottom: 23px;
+            border-radius: 10px;
+            margin-right: 62px;
+            float: left;
+            margin-left: 110px;
+            
+        }
+        h1{
+            margin-bottom:30px ;
+            margin-left: 466px;
+            margin-top: 90px;
+            font-size: 47px;
+           
+        }
+        body{
+            font-family: 'Roboto Slab', serif;
+            background-color: rgb(240, 210, 240);
+        }
+        div{
+            background-color: aliceblue;
+            border: 1px;
+            margin: 0 auto;
+            width: 80%;
+            padding: 10px;
+        }
+        fieldset{
+            margin-bottom: 12px; 
+            margin-left:   
+        }
+        .contenedor{
+            margin: 0 auto;
+            display: flex;
+        }
+        legend{
+            background-color: rgb(235, 211, 215);
+            margin-top: 22px;
+        }
+        .hide{
+            display: none;
+        }
+        .show{
+            display: block;
+        }
+ 
